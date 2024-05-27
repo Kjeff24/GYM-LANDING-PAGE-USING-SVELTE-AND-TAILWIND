@@ -1,7 +1,7 @@
 <script>
   import ProductCard from "./ProductCard.svelte";
   import SectionWrapper from "./SectionWrapper.svelte";
-  import products from "../data/product.js";
+  import products from "../data/products.js";
 
   let productFeatures = products;
 </script>
